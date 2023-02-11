@@ -1,0 +1,2 @@
+﻿  MPI 2.cpp
+LINK : fatal error LNK1104: cannot open file 'msmpi.lib'
